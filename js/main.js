@@ -1,4 +1,4 @@
-function agregaPosteo() {
+function agregarComentarios() {
     var contenedorPosteos = document.getElementById("contenedor-posteos");
     var nombreS = document.getElementById("nombre").value;
     var contenidoPosteos = document.getElementById("cajaposteos").value;
